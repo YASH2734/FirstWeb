@@ -1,6 +1,6 @@
 # 🎮 Game Sale Website
 
-A simple web-based game sale platform developed using HTML, CSS, JavaScript, SQL Database, and Apache Server. The website allows users to browse games, view details, and interact with game-related content through a user-friendly interface.
+A simple web-based game sale platform developed using HTML, CSS, JavaScript, PHP, SQL Database, and Apache Server. The website allows users to browse games, view details, and interact with game-related content through a user-friendly interface.
 
 ## 🚀 Features
 
@@ -19,24 +19,9 @@ A simple web-based game sale platform developed using HTML, CSS, JavaScript, SQL
 - JavaScript
 
 ### Backend & Database
+- PHP
 - SQL Database (MySQL)
 - Apache Server
-
-## 📂 Project Structure
-
-```
-Game-Sale-Website/
-│
-├── index.html
-├── css/
-├── js/
-├── images/
-├── database/
-│   └── game_store.sql
-└── README.md
-```
-
-## ⚙️ Installation
 
 ### Prerequisites
 - Apache Server (XAMPP/WAMP)
